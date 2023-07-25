@@ -1,3 +1,15 @@
+# Personal Website Next Remake
+
+This repository contains the code for my personal website remake using Next.JS. I plan on slowly rebuilding [vtlanglois.github.io](https://vtlanglois.github.io) using what I've learned from my full-time job.
+
+My expected goals are:
+- Reformat codebase to reduce clutter and unnecessary folders.
+- Introduce SASS stylesheets.
+- Reduce Reactstrap/React-Bootstrap component usage.
+- Introduce unit tests using Jest.
+
+# Next.JS Generated README
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
